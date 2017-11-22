@@ -9,7 +9,7 @@ function fac(k) {
 function per(k, i) {
 	return fac(k) / fac(k - i);
 }
-//opo
+//
 function com(k, i) {
 	return per(k, i) / fac(i);
 }
