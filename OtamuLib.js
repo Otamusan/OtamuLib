@@ -13,4 +13,3 @@ function per(k, i) {
 function com(k, i) {
 	return per(k, i) / fac(i);
 }
-//test
